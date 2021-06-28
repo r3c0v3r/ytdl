@@ -1,9 +1,12 @@
 # ytdl
-Simple Youtube Downloader using Pytube on python 3.9.5
+Simple Youtube Downloader using Pytube on python
 This is how to use this downloader : 
 First go to www.youtube.com 
 copy the url of video or use share button in youtube
-then paste your url in YTdownloader.py 
+then paste your url in YTdownloader.py  
+
+myVideo = YouTube("Paste Your video url here !")
+
 Run the code and wait until it finish the download process!
 
 - Be sure to have install latest Python Version !
